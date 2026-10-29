@@ -13,7 +13,7 @@ const CARS = [
     speed: 'Air ~110 mph · Road limited',
     seats: '2',
     summary: 'Two-seat electric vehicle that transitions to vertical flight. Special airworthiness for testing; early hand-built units targeted for controlled use.',
-    image: 'images/alef-model-a.jpg',
+    image: 'alef-model-a.jpg',
     featured: true,
     status: 'Pre-production testing'
   },
@@ -26,7 +26,7 @@ const CARS = [
     speed: 'Air ~155 mph · Road ~124 mph',
     seats: '2',
     summary: 'Wings and tail deploy in under two minutes. Prototype airworthiness history; production version aimed at 2026.',
-    image: 'images/klein-aircar.jpg',
+    image: 'klein-aircar.jpg',
     featured: true,
     status: 'Production prototype'
   },
@@ -39,7 +39,7 @@ const CARS = [
     speed: 'Air ~100+ mph',
     seats: '2',
     summary: 'One of the earliest modern roadable aircraft programmes. Folding wings, street-legal ambitions, long development history.',
-    image: 'images/terrafugia-transition.jpg',
+    image: 'terrafugia-transition.jpg',
     featured: false,
     status: 'Historic / limited programme'
   },
@@ -52,7 +52,7 @@ const CARS = [
     speed: 'Air ~112 mph · Road ~100 mph',
     seats: '2',
     summary: 'Three-wheeled road vehicle that converts into a gyroplane. Road certification progress in Europe; aviation type certification continuing.',
-    image: 'images/pal-v-liberty.jpg',
+    image: 'pal-v-liberty.jpg',
     featured: true,
     status: 'Certification in progress'
   },
@@ -65,7 +65,7 @@ const CARS = [
     speed: 'Not fully published',
     seats: '2 (air)',
     summary: 'Six-wheel ground vehicle that carries, launches and recharges a detachable two-seat electric VTOL. Deliveries targeted from 2026 in China.',
-    image: 'images/xpeng-aeroht.jpg',
+    image: 'xpeng-aeroht.jpg',
     featured: false,
     status: 'Production ramp'
   },
@@ -78,7 +78,7 @@ const CARS = [
     speed: 'Road claimed >230 mph',
     seats: '2',
     summary: 'Cold-gas thrusters developed with SpaceX enable short hops and rolls. Demonstrated uncrewed; not a certified flying car for travel.',
-    image: 'images/tesla-roadster.jpg',
+    image: 'tesla-roadster.jpg',
     featured: false,
     status: 'Concept / demonstration'
   },
@@ -91,7 +91,7 @@ const CARS = [
     speed: 'Air ~160–200 mph · Road ~100–125 mph',
     seats: '2',
     summary: 'Three-wheeled street-legal vehicle that deploys wings and tail for runway flight. Sold primarily as an experimental amateur-built kit.',
-    image: 'images/samson-switchblade.jpg',
+    image: 'samson-switchblade.jpg',
     featured: false,
     status: 'Kit / pre-production'
   },
@@ -104,7 +104,7 @@ const CARS = [
     speed: '~160 mph class',
     seats: '2',
     summary: 'Slovak roadable aircraft with folding wings and a strong design identity. Premium positioning and long development cycle.',
-    image: 'images/aeromobil-4.jpg',
+    image: 'aeromobil-4.jpg',
     featured: false,
     status: 'Development / limited series'
   },
@@ -117,7 +117,7 @@ const CARS = [
     speed: 'Air ~150 mph',
     seats: '4',
     summary: 'Four-seat hybrid-electric vehicle with vertical and short-field capability. FAA special airworthiness for testing; commercial target later in the decade.',
-    image: 'images/aska-a5.jpg',
+    image: 'aska-a5.jpg',
     featured: false,
     status: 'Flight & road testing'
   }
